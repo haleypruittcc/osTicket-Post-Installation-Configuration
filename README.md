@@ -6,27 +6,27 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2></h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Get more information on following:
+
+- [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
+- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
+- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
+- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
+- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html).
+- [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 
 <h2>Configuration Steps</h2>
 
