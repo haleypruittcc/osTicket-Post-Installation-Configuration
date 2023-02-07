@@ -178,7 +178,7 @@ Get more information on following:
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/qiLqZxp.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 -  Make sure you are in admin panel (check top right to see which panel you are in)
