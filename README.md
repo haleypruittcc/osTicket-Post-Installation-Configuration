@@ -87,7 +87,7 @@ Get more information on following:
 <h3>Step 5: Allow anyone to create tickets</h3>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/LsVIavq.png" height="80%" width="80%" alt="Azure Free Account"/>
 
  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Settings -> User Settings
