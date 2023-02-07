@@ -193,4 +193,5 @@ Get more information on following:
 	- Password Reset
 - Select Add Topic for each topic
 
+🎉Congratulation! You finally done setting up your osTicket.!🎉 Our finale tutorial , we going to create Ticket and Ticket Lifecycle by clicking [here](https://github.com/haleypruittcc/TicketLifecycle) 
 
