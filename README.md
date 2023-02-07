@@ -59,7 +59,7 @@ Get more information on following:
 <h3>Step 3: Configure Departments</h3>
 
 <p align="center">
-<img src="https://i.imgur.com/UzSZ9GL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/X2dXwjY.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/UzSZ9GL.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
 - Make sure you are in admin panel (check top right to see which panel you are in)
@@ -68,13 +68,14 @@ Get more information on following:
 - Select Create Dept. 
 
 
-<p align="center">
-<img src="https://i.imgur.com/f2uEloL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/X2dXwjY.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
 
 
 <h3>Step 4:  Configure Teams
 </h3>
+
+<p align="center">
+<img src="https://i.imgur.com/4EnXFT6.png" height="70%" width="70%" alt="Azure Free Account"/> 
+</p>
 
 - Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Agents tab -> Teams -> Add New Team
@@ -82,22 +83,24 @@ Get more information on following:
 - Go to members tab and select yourself in "Select Agent" dropdown menu
 - Select create team. 
 	
-<p align="center">
-<img src="https://i.imgur.com/v6zzN3N.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/4IieS80.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
 
 <h3>Step 5: Allow anyone to create tickets</h3>
+
+<p align="center">
+<img src="" height="80%" width="80%" alt="Azure Free Account"/>
 
  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Settings -> User Settings
 	- Make sure box is unchecked: 
 		- Registration Required: Require registration and login to create tickets 
-		
-<p align="center">
-<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
+			
 
 
 <h3>Step 6: Configure Agents</h3>
+
+<p align="center">
+<img src="https://i.imgur.com/yVBvAE5.png" height="70%" width="70%" alt="Azure Free Account"/> 
+</p>
 
 -  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Agents tab -> Add New Agents
@@ -108,11 +111,6 @@ Get more information on following:
 		- Set your password to anything you like
 		- uncheck box that says "require password change at next login
 		- Select set
-		
-<p align="center">
-<img src="https://i.imgur.com/fTvI0Ru.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/6OU5KqX.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
-
 - Select Access tab 
 	- Under Primary Department 
 		- Select department dropdown menu -> System Administrators
@@ -122,23 +120,13 @@ Get more information on following:
 - Select Teams tab
 	- Select team dropdown menu -> Level II Support
 	- Select Add
-- Select Create	
-
-	
-<p align="center">
-<img src="https://i.imgur.com/HPSPHNU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/hotx1wo.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
-
+- Select Create
 - Create another agent and replace Jane with John.
 	- Follow same steps as above except make some changes to Primary Department
 		- Select department dropdown menu -> Support
 		- Select Role dropdown menu -> View only
 	- Extended Accesss 
 		- Select Department -> Support -> Save Changes
-		
-<p align="center">
-<img src="https://i.imgur.com/qQ8ckBr.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/KVPsUb4.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
  
      
 
