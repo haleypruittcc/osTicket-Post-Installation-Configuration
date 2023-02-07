@@ -38,7 +38,7 @@ Get more information on following:
 </p>
 <p>
 
-- Log in your username and password you setup last tutorial , If you miss the download and install setup osTicket 
+- Log in [here](http://localhost/osTicket/scp/login.php) your username and password you setup last tutorial , If you miss the download and install setup osTicket 
   
 <h3>Step 2: Configure Roles </h3>
 
