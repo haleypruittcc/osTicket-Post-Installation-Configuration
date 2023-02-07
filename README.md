@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.ytimg.com/vi/K7T_JjvEamg/maxresdefault.jpg" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
@@ -27,6 +27,7 @@ Get more information on following:
 - [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
 - [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html).
 - [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
+- [Hot Topic](https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html)
 
 <h2>Post Installation Setup Steps </h2>
 
@@ -104,9 +105,9 @@ Get more information on following:
 
 -  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Agents tab -> Add New Agents
-	- Name: Jane Doe
-	- Email : jane.doe@osticket.com
-	- Username: jane.doe
+	- Name: Jennifer Jones
+	- Email : jennifer.jones@osticket.com
+	- Username: jennifer.jones
 	- Click set password and uncheck box that says "send the agent a password reset email
 		- Set your password to anything you like
 		- uncheck box that says "require password change at next login
@@ -121,7 +122,7 @@ Get more information on following:
 	- Select team dropdown menu -> Level II Support
 	- Select Add
 - Select Create
-- Create another agent and replace Jane with John.
+- Create another agent and replace Jane with with other name your chose.
 	- Follow same steps as above except make some changes to Primary Department
 		- Select department dropdown menu -> Support
 		- Select Role dropdown menu -> View only
@@ -140,8 +141,8 @@ Get more information on following:
 - Make sure you are in Agent panel (check top right to see which panel you are in)
 	- If the top right says "admin" you are in the agent panel
 - Select Users tab to create user
-	- Email Address: Karen@osticket.com
-	- Full Name - Karen Karen
+	- Email Address: Brain @osticket.com
+	- Full Name - Brain.Brain
 	- Select Add User		
  - Select user tab again to create another user
 	
@@ -176,6 +177,9 @@ Get more information on following:
 
 <h3>Step 9:   Configure Help Topics
 </h3>
+
+<p align="center">
+<img src="https://i.imgur.com/kge4Epc.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 <p align="center">
 <img src="https://i.imgur.com/qiLqZxp.png" height="80%" width="80%" alt="Azure Free Account"/>
