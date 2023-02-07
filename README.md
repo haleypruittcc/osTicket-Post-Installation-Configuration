@@ -133,62 +133,53 @@ Get more information on following:
 <h3>Step 7: Configure Users
 </h3>
 
+<p align="center">
+<img src="https://i.imgur.com/Xm0RvXY.png" height="80%" width="80%" alt="Azure Free Account"/>
+
+
 - Make sure you are in Agent panel (check top right to see which panel you are in)
 	- If the top right says "admin" you are in the agent panel
-	
-<p align="center">
-<img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
-	
 - Select Users tab to create user
 	- Email Address: Karen@osticket.com
 	- Full Name - Karen Karen
-	- Select Add User
-	
-<p align="center">
-<img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>			
-	
+	- Select Add User		
  - Select user tab again to create another user
-	- Email Address: Ken@osticket.com
-	- Full Name - Ken Ken
-	- Select Add User
-
-<p align="center">
-<img src="https://i.imgur.com/EXyy5Gq.png" height="80%" width="80%" alt="Azure Free Account"/>		
-
+	
+	
 <h3>Step 8:  Configure Service Level Agreements (SLA)
 </h3>
+
+<p align="center">
+<img src="https://i.imgur.com/Fxh9p71.png" height="80%" width="80%" alt="Azure Free Account"/>
+</p>
 
 - Make sure you are in admin panel (check top right to see which panel you are in)
 - Select Manage tab -> SLA -> Add New SLA Plan (We are creating 3)
 	- Name: SEV-A 			
-	- Grace Period: 1
-	- Schedule dropdown menu: 24/7
-	- Select Add Plan
+	  - Grace Period: 1
+	  - Schedule dropdown menu: 24/7
+	  - Select Add Plan
 	
-<p align="center">
-<img src="https://i.imgur.com/fMR4yMR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
-</p>
+	- Name: SEV-B
+        - Grace Period: 4
+        - Schedule dropdown menu: 24/7
+        - Select Add Plan
 
-- Name: SEV-B
-- Grace Period: 4
-- Schedule dropdown menu: 24/7
-- Select Add Plan
-	
-<p align="center">
-<img src="https://i.imgur.com/pAbQPEP.png" height="80%" width="80%" alt="Azure Free Account"/>
+        
+	- Name: SEV-C 
+        - Grace Period: 8
+        - Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S Holidays
+        - Select Add Plan
 
-- Name: SEV-C 
-- Grace Period: 8
-- Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S Holidays
-- Select Add Plan
-
-<p align="center">
-<img src="https://i.imgur.com/5cgn0oz.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 
 <h3>Step 9:   Configure Help Topics
 </h3>
+
+<p align="center">
+<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
+
 
 -  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select Manage tab -> Help Topics -> Add New Help Topic (We will be adding 4)
@@ -198,6 +189,4 @@ Get more information on following:
 	- Password Reset
 - Select Add Topic for each topic
 
-<p align="center">
-<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
 
