@@ -48,7 +48,7 @@ Get more information on following:
 
 
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in"
 	- If the top right says "agent" you are in the admin panel
 - Select the Agents tab -> Roles -> Add New Role
 	- Name : Supreme Admin
@@ -63,7 +63,7 @@ Get more information on following:
 <img src="https://i.imgur.com/UzSZ9GL.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in" 
 - Select the Agents tab -> Departments -> Add New Department 
 	- Name: System Administrators
 - Select Create Dept. 
@@ -78,7 +78,7 @@ Get more information on following:
 <img src="https://i.imgur.com/4EnXFT6.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in"
 - Select the Agents tab -> Teams -> Add New Team
 	- Name: Level II Support 
 - Go to members tab and select yourself in "Select Agent" dropdown menu
@@ -90,7 +90,7 @@ Get more information on following:
 <p align="center">
 <img src="https://i.imgur.com/LsVIavq.png" height="80%" width="80%" alt="Azure Free Account"/>
 
- Make sure you are in admin panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in"
 - Select the Settings -> User Settings
 	- Make sure box is unchecked: 
 		- Registration Required: Require registration and login to create tickets 
@@ -103,13 +103,13 @@ Get more information on following:
 <img src="https://i.imgur.com/yVBvAE5.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
--  Make sure you are in admin panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in"
 - Select the Agents tab -> Add New Agents
 	- Name: Jennifer Jones
 	- Email : jennifer.jones@osticket.com
 	- Username: jennifer.jones
-	- Click set password and uncheck box that says "send the agent a password reset email
-		- Set your password to anything you like
+	- Click set password and uncheck box that says "send the agent a password reset email"
+		- Set your password of your chose
 		- uncheck box that says "require password change at next login
 		- Select set
 - Select Access tab 
@@ -122,8 +122,8 @@ Get more information on following:
 	- Select team dropdown menu -> Level II Support
 	- Select Add
 - Select Create
-- Create another agent and replace Jane with with other name your chose.
-	- Follow same steps as above except make some changes to Primary Department
+- Create a new agent and give it a different name instead of the one you originally intended.
+	- Observe the same procedures as before, but change the Primary Department.
 		- Select department dropdown menu -> Support
 		- Select Role dropdown menu -> View only
 	- Extended Accesss 
@@ -138,7 +138,7 @@ Get more information on following:
 <img src="https://i.imgur.com/Xm0RvXY.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
-- Make sure you are in Agent panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in"
 	- If the top right says "admin" you are in the agent panel
 - Select Users tab to create user
 	- Email Address: Brain @osticket.com
@@ -154,7 +154,7 @@ Get more information on following:
 <img src="https://i.imgur.com/Fxh9p71.png" height="80%" width="80%" alt="Azure Free Account"/>
 </p>
 
-- Make sure you are in admin panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in"
 - Select Manage tab -> SLA -> Add New SLA Plan (We are creating 3)
 	- Name: SEV-A 			
 	  - Grace Period: 1
@@ -185,7 +185,7 @@ Get more information on following:
 <img src="https://i.imgur.com/qiLqZxp.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
--  Make sure you are in admin panel (check top right to see which panel you are in)
+- Ensure that you are in the admin panel "check top right to see which panel you are in"
 - Select Manage tab -> Help Topics -> Add New Help Topic (We will be adding 4)
 	- Business Critical Outage
 	- Personal Computer Issues
@@ -193,5 +193,5 @@ Get more information on following:
 	- Password Reset
 - Select Add Topic for each topic
 
-🎉Congratulation! You finally done setting up your osTicket.!🎉 Our finale tutorial , we going to create Ticket and Ticket Lifecycle by clicking [here](https://github.com/haleypruittcc/TicketLifecycle) 
+🎉Congratulation! You finally done setting up your osTicket.!🎉 Our finale tutorial , we going to create Tickets and Ticket Lifecycle by clicking [here](https://github.com/haleypruittcc/TicketLifecycle) 
 
