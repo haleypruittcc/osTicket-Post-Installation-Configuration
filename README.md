@@ -179,9 +179,6 @@ Get more information on following:
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/kge4Epc.png" height="80%" width="80%" alt="Azure Free Account"/>
-
-<p align="center">
 <img src="https://i.imgur.com/qiLqZxp.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
